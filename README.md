@@ -3,7 +3,7 @@
 #### College Project - Make sure to read the PDF article in "Extra_Stuff".
 
 <h3 align="center">TECbot</h3>
-<p align="center"> <img src = "/Extra_Stuff/TECbot.png" width = 550> </p>
+<p align="center"> <img src = "/Extra_Stuff/TECbot.png" width = 700> </p>
 
 This is a chatbot designed to respond to user input by searching for specific keywords and phrases and providing pre-determined responses.
 
