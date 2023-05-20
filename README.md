@@ -15,7 +15,7 @@ The global context variable is used to store information from previous interacti
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 1 file, containing the resource code of our chatbot.
+1. In this simple GitHub Repository, I uploaded 1 file, containing the source code of our chatbot.
 2. You don't need anything special to run the program.
 
 <h2 align="left">Extra Stuff</h3>
